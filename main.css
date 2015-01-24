@@ -44,3 +44,9 @@
 	background-color: #F78181;
 	padding: 1em;
 }
+dt {
+	font-weight: bold;
+}
+.user-name-and-pic a span {
+	display: block;
+}
